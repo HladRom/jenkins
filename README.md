@@ -1,3 +1,8 @@
+TASK
+Task 3 Ansible
+1.  Write a playbook that would install Jenkins and create a job in it: Pipeline.
+2.  Since the job uses Docker, use Ansible to copy the required local files (Dockerfile) to the remote server.
+
 # jenkins
 its for jenkins task, bild progekt (VPD).
 stages {

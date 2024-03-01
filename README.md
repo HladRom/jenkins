@@ -32,4 +32,4 @@
     `}`
 `}`
 ```
-![myjenki](https://www.jenkins.io/images/logo-title-opengraph.png)
+![myjenki](https://cdn.iconscout.com/icon/free/png-256/free-jenkins-282182.png?f=webp)

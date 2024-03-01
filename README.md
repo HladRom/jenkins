@@ -1,5 +1,5 @@
-TASK
-Jenkins
+# TASK:star::star::star:
+## Jenkins
 1.  Run Jenkins in the local environment, configure it.
 2.  Download the GIT repository.
 3.  The process of building the project (Preparation of npm install).
@@ -7,10 +7,10 @@ Jenkins
 5.  Uploading the container to DockerHub.
 6.  Starting the container.
 
-Code:
+### Code:
 
-# jenkins
-its for jenkins task, bild progekt (VPD).
+### jenkins
+**its for jenkins task, bild progekt (VPD).**
 stages {
         stage('cloning our GIT') {
             steps {

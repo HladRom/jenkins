@@ -11,8 +11,8 @@
 
 ### jenkins
 **its for jenkins task, bild progekt (VPD).**
-`stages {
-        stage('cloning our GIT') {
+`stages {`
+        `stage('cloning our GIT') {`
             steps {
                 git url: "https://github.com/HladRom/-vue-paper-dashboard"
             }

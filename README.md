@@ -11,7 +11,7 @@
 
 ### jenkins
 **its for jenkins task, bild progekt (VPD).**
-```
+```python
 `stages {`
         `stage('cloning our GIT') {`
             `steps {`

@@ -1,4 +1,4 @@
-# TASK:star::star::star:
+# TASK :star: :star: :star:
 ## Jenkins
 1.  Run Jenkins in the local environment, configure it.
 2.  Download the GIT repository.

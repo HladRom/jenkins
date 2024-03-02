@@ -12,24 +12,24 @@
 ### jenkins
 **its for jenkins task, bild progekt (VPD).**
 ```python
-`stages {`
-        `stage('cloning our GIT') {`
-            `steps {`
-                `git url: "https://github.com/HladRom/-vue-paper-dashboard"`
-            `}`
-        `}`
-        `stage('Pre-Build preparations') {`
-            `steps {`
-                `sh "npm install"`
-    `}`
-`}`
-        `stage('Build app & docker image') {`
-            `steps {`
-                `sh "npm run build"`
-    `}`
-`}`
+stages {
+        stage('cloning our GIT') {
+            steps {
+                git url: "https://github.com/HladRom/-vue-paper-dashboard"
+            }
+        }
+        stage('Pre-Build preparations') {
+            steps {
+                sh "npm install"
+    }
+}
+        `stage('Build app & docker image') {
+            steps {
+                sh "npm run build"
+    }
+}
       
-    `}`
-`}`
+    }
+}
 ```
 ![myjenki](https://cdn.iconscout.com/icon/free/png-256/free-jenkins-282182.png?f=webp)

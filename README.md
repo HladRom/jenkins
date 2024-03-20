@@ -20,6 +20,7 @@ In this project, we will explore the process of using Jenkins to automate variou
 Using Jenkins to automate the software development and deployment process greatly simplifies and accelerates workflows. From running Jenkins and downloading code from GIT to building a Docker container, uploading it to DockerHub, and starting it - this process provides an efficient and automated workflow.
 ### Code:
 
+
 ### jenkins
 **its for jenkins task, bild progekt (VPD).**
 ```python

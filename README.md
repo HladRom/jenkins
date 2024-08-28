@@ -1,6 +1,7 @@
 
 # TASK :star: :star:  :star:
 
+
 ## Introduction
 In this project, we will explore the process of using Jenkins to automate various steps in software development and deployment. We'll cover steps from running Jenkins in the local environment to uploading a container to DockerHub and starting it. This process greatly simplifies and accelerates software development and deployment.
 
